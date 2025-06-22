@@ -10,7 +10,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Toseef's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToseefAliDanish&show_icons=true&theme=tokyonight)
+![Toseef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toseef67&show_icons=true&theme=tokyonight)
 
 ## 🛠 Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
