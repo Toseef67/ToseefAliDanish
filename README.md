@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Toseef Ali Danish
 
-![Banner](https://i.imgur.com/ZIx4t6S.png) <!-- Replace this with your custom banner link -->
-
 ## 👨‍💻 About Me
 I’m a passionate and multi-skilled tech enthusiast specializing in **Web Development**, **Graphic Designing**, and **Smart Management Systems**. I love building efficient, user-friendly digital solutions that make a real-world impact. From designing modern UIs to developing smart automation projects, I strive to combine creativity with functionality.
 
